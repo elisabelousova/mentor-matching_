@@ -1,0 +1,422 @@
+[
+  {
+    "domain": "product",
+    "skills": [
+      "roadmap",
+      "prioritization"
+    ],
+    "goals": [
+      "strategy",
+      "product_sense"
+    ],
+    "seniority": "junior",
+    "format": "online",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "ads",
+      "seo"
+    ],
+    "goals": [
+      "performance",
+      "funnels"
+    ],
+    "seniority": "senior",
+    "format": "offline",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "interviews",
+      "usability"
+    ],
+    "goals": [
+      "portfolio",
+      "research_skills"
+    ],
+    "seniority": "senior",
+    "format": "chat",
+    "industry": "saas"
+  },
+  {
+    "domain": "data_science",
+    "skills": [
+      "python",
+      "nlp"
+    ],
+    "goals": [
+      "deep_learning",
+      "modeling"
+    ],
+    "seniority": "middle",
+    "format": "chat",
+    "industry": "edtech"
+  },
+  {
+    "domain": "data_science",
+    "skills": [
+      "ml",
+      "statistics"
+    ],
+    "goals": [
+      "ml_projects",
+      "deep_learning"
+    ],
+    "seniority": "senior",
+    "format": "offline",
+    "industry": "saas"
+  },
+  {
+    "domain": "engineering",
+    "skills": [
+      "testing",
+      "system_design"
+    ],
+    "goals": [
+      "scalability",
+      "architecture"
+    ],
+    "seniority": "middle",
+    "format": "online",
+    "industry": "edtech"
+  },
+  {
+    "domain": "product",
+    "skills": [
+      "prioritization",
+      "roadmap"
+    ],
+    "goals": [
+      "strategy",
+      "growth"
+    ],
+    "seniority": "senior",
+    "format": "chat",
+    "industry": "saas"
+  },
+  {
+    "domain": "engineering",
+    "skills": [
+      "api",
+      "testing"
+    ],
+    "goals": [
+      "scalability",
+      "performance"
+    ],
+    "seniority": "senior",
+    "format": "online",
+    "industry": "fintech"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "smm",
+      "content"
+    ],
+    "goals": [
+      "performance",
+      "branding"
+    ],
+    "seniority": "middle",
+    "format": "chat",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "research",
+      "figma"
+    ],
+    "goals": [
+      "user_testing",
+      "portfolio"
+    ],
+    "seniority": "middle",
+    "format": "chat",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "figma",
+      "interviews"
+    ],
+    "goals": [
+      "user_testing",
+      "research_skills"
+    ],
+    "seniority": "senior",
+    "format": "online",
+    "industry": "fintech"
+  },
+  {
+    "domain": "engineering",
+    "skills": [
+      "system_design",
+      "api"
+    ],
+    "goals": [
+      "performance",
+      "scalability"
+    ],
+    "seniority": "senior",
+    "format": "offline",
+    "industry": "fintech"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "usability",
+      "research"
+    ],
+    "goals": [
+      "research_skills",
+      "portfolio"
+    ],
+    "seniority": "middle",
+    "format": "chat",
+    "industry": "fintech"
+  },
+  {
+    "domain": "engineering",
+    "skills": [
+      "backend",
+      "testing"
+    ],
+    "goals": [
+      "scalability",
+      "architecture"
+    ],
+    "seniority": "junior",
+    "format": "offline",
+    "industry": "saas"
+  },
+  {
+    "domain": "analytics",
+    "skills": [
+      "dashboards",
+      "sql"
+    ],
+    "goals": [
+      "advanced_sql",
+      "experiments"
+    ],
+    "seniority": "senior",
+    "format": "offline",
+    "industry": "saas"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "interviews",
+      "figma"
+    ],
+    "goals": [
+      "user_testing",
+      "portfolio"
+    ],
+    "seniority": "middle",
+    "format": "offline",
+    "industry": "edtech"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "seo",
+      "content"
+    ],
+    "goals": [
+      "branding",
+      "performance"
+    ],
+    "seniority": "middle",
+    "format": "offline",
+    "industry": "fintech"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "content",
+      "smm"
+    ],
+    "goals": [
+      "funnels",
+      "branding"
+    ],
+    "seniority": "junior",
+    "format": "chat",
+    "industry": "edtech"
+  },
+  {
+    "domain": "data_science",
+    "skills": [
+      "python",
+      "nlp"
+    ],
+    "goals": [
+      "modeling",
+      "ml_projects"
+    ],
+    "seniority": "senior",
+    "format": "chat",
+    "industry": "fintech"
+  },
+  {
+    "domain": "product",
+    "skills": [
+      "roadmap",
+      "growth"
+    ],
+    "goals": [
+      "growth",
+      "strategy"
+    ],
+    "seniority": "junior",
+    "format": "chat",
+    "industry": "saas"
+  },
+  {
+    "domain": "product",
+    "skills": [
+      "metrics",
+      "prioritization"
+    ],
+    "goals": [
+      "growth",
+      "product_sense"
+    ],
+    "seniority": "junior",
+    "format": "offline",
+    "industry": "edtech"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "ads",
+      "smm"
+    ],
+    "goals": [
+      "performance",
+      "funnels"
+    ],
+    "seniority": "middle",
+    "format": "offline",
+    "industry": "fintech"
+  },
+  {
+    "domain": "product",
+    "skills": [
+      "prioritization",
+      "growth"
+    ],
+    "goals": [
+      "product_sense",
+      "strategy"
+    ],
+    "seniority": "junior",
+    "format": "online",
+    "industry": "fintech"
+  },
+  {
+    "domain": "ux",
+    "skills": [
+      "research",
+      "usability"
+    ],
+    "goals": [
+      "portfolio",
+      "research_skills"
+    ],
+    "seniority": "middle",
+    "format": "online",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "analytics",
+    "skills": [
+      "ab_testing",
+      "python"
+    ],
+    "goals": [
+      "experiments",
+      "data_storytelling"
+    ],
+    "seniority": "junior",
+    "format": "online",
+    "industry": "fintech"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "ads",
+      "smm"
+    ],
+    "goals": [
+      "performance",
+      "funnels"
+    ],
+    "seniority": "junior",
+    "format": "chat",
+    "industry": "saas"
+  },
+  {
+    "domain": "marketing",
+    "skills": [
+      "ads",
+      "smm"
+    ],
+    "goals": [
+      "performance",
+      "branding"
+    ],
+    "seniority": "junior",
+    "format": "offline",
+    "industry": "edtech"
+  },
+  {
+    "domain": "product",
+    "skills": [
+      "metrics",
+      "roadmap"
+    ],
+    "goals": [
+      "growth",
+      "strategy"
+    ],
+    "seniority": "junior",
+    "format": "online",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "engineering",
+    "skills": [
+      "backend",
+      "testing"
+    ],
+    "goals": [
+      "architecture",
+      "performance"
+    ],
+    "seniority": "middle",
+    "format": "offline",
+    "industry": "ecommerce"
+  },
+  {
+    "domain": "data_science",
+    "skills": [
+      "python",
+      "statistics"
+    ],
+    "goals": [
+      "modeling",
+      "ml_projects"
+    ],
+    "seniority": "senior",
+    "format": "chat",
+    "industry": "edtech"
+  }
+]
